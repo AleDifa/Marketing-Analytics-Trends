@@ -1,7 +1,7 @@
 # Marketing-Analytics-Trends
 a series of web scraping tecnique for delinate a Market trends with data found free on the internet
 
-                                                          TRENDS di MERCATO
+                                                  TRENDS di MERCATO
 
 Il progetto nasce dalla volontà di aiutare le aziende a posizionare servizi, prodotti e la propria immagine in maniera più vantaggiosa nel mercato, tramite l’analisi dati si cerca di intercettare ed in
 interpretare uno o più trend in un mercato di interesse, cioè un elemento di un contesto che serve per avere una visione più ampia sull’andamento dei KPI’s. Soprattutto cerca di far capire quando un servizio/prodotto sta diventando obsoleto. 
