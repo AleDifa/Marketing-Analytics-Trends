@@ -1,20 +1,22 @@
 # Marketing-Analytics-Trends
 a series of web scraping tecnique for delinate a Market trends with data found free on the internet
 
+
                                                   TRENDS di MERCATO
 
-Il progetto nasce dalla volontà di aiutare le aziende a posizionare servizi, prodotti e la propria immagine in maniera più vantaggiosa nel mercato, tramite l’analisi dati si cerca di intercettare ed in
-interpretare uno o più trend in un mercato di interesse, cioè un elemento di un contesto che serve per avere una visione più ampia sull’andamento dei KPI’s. Soprattutto cerca di far capire quando un servizio/prodotto sta diventando obsoleto. 
 
-Tramite l’interrogazione di API e tecniche di Web Scraping possiamo interrogare il web per analizare informazioni, deducendo una tendenza presente e futura per una o più determinate chiavi di ricerca fornite.
+The project was born from the desire to help companies position their services, products and their image in a more advantageous way on the market. Through data analysis we try to intercept and
+interpret one or more trends in a market of interest, i.e. an element of a context that serves to have a broader vision of the performance of the KPI's. Above all, try to make it clear when a service/product is becoming obsolete.
 
-Il progetto è formato da 5 aree di analisi, tramite la possibilità di scrivere una o più parole chiavi in un apposita sezione ed ottenere i risultati della ricerca tramite output di testo e grafici.
+Through the query of APIs and Web Scraping techniques we can query the web to analyze information, deducing a present and future trend for one or more specific search keys provided.
+
+The project is made up of 5 areas of analysis, through the possibility of writing one or more keywords in a specific section and obtaining the search results via text and graphic output.
 
 
-Le aree di analisi si basano su 5 aree:
-1. Keyword and Search volumes analysis 
+The areas of analysis are based on 5 areas:
+1. Keyword and Search volumes analysis
 2. Advance research
 3. Sentiment analysis
-4. Brand reputation 
+4. Brand reputation
 5. Price comparison
-6. Forecasting 
+6. Forecasting
